@@ -31,4 +31,21 @@ Before running the application, make sure you have the following installed:
 ## Installation Instructions
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/imshashwatsingh/SumUP.git
+    ```
+2. **Install dependencies**:
+    ```bash
+    npm i
+    ```
+
+3. **Run the server after seting up your_api_key from Gemini@Google**:
+   ```bash
+    node index.js
+    ```
+---
+
+## 🙍🏻‍♂️ Contribution
+
+Feel free to fork this project and submit pull requests to enhance it or report issues.
+
+---
